@@ -49,4 +49,14 @@ Complete the following steps to start a new project (NEW-PROJECT-NAME):
 
 ## Deploying
 
-When your new project is ready for deployment, add a new Heroku application with `heroku create`. This will make a new git remote called "heroku" and you can then `npm run deploy` which will push to this remote's main branch.
+When your new project is ready for deployment, add a new Heroku application with: 
+
+`heroku create`
+
+> This will make a new git remote called "heroku"
+
+<br>
+
+Then push to this remote's main branch:
+
+`npm run deploy`
