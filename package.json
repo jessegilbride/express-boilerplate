@@ -1,6 +1,7 @@
 {
   "name": "express-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "updated": "Fri Apr 16 2021 19:04:30 GMT-0400",
   "description": "",
   "main": "index.js",
   "scripts": {
